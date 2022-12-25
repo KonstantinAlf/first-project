@@ -1,2 +1,2 @@
-pablic status void maim (String[] args){
+klass Converter{
 }
